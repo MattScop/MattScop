@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/MattScop"><img src="https://api.daily.dev/devcards/da17aa64dd5142d18a1c2f83c3c0fc48.png?r=10q" width="400" alt="Matteo's Dev Card"/></a>
+<a href="https://app.daily.dev/MattScop"><img src="https://api.daily.dev/devcards/da17aa64dd5142d18a1c2f83c3c0fc48.png?r=fne" width="400" alt="Matteo's Dev Card"/></a>
 
 - 👋 Hi, I’m @MattScop
 - 👀 I’m interested in ...
