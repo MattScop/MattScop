@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Matteo (@MattScop)
 - 👀 I’m interested in Coding & Programming, Piano, Sport, Books.
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Ruby
 <!--- 💞️ I’m looking to collaborate on Big Projects with mayor Companies
 - 📫 How to reach me:
   email: matteo.scopece@outlook.com-->
