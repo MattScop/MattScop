@@ -1,11 +1,11 @@
-<!-- <a href="https://app.daily.dev/MattScop"><img src="https://github.com/MattScop/MattScop/blob/main/devcard.svg" width="400" alt="Matteo's Dev Card"/></a>
- -->
-<!-- - 👋 Hi, I’m Matteo (@MattScop)
+<!--- <a href="https://app.daily.dev/MattScop"><img src="https://github.com/MattScop/MattScop/blob/main/devcard.svg" width="400" alt="Matteo's Dev Card"/></a> --->
+
+<!--- - 👋 Hi, I’m Matteo (@MattScop)
 - 👀 I’m interested in Coding & Programming, Piano, Sport, Books.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Ruby -->
-<!--- 💞️ I’m looking to collaborate on Big Projects with mayor Companies
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Ruby
+💞️ I’m looking to collaborate on Big Projects with mayor Companies
 - 📫 How to reach me:
-  email: matteo.scopece@outlook.com-->
+  email: matteo.scopece@outlook.com --->
 
 <!---
 MattScop/MattScop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -92,17 +92,4 @@ I want to create full stack apps THAT CAN SOLVE problems!
 
 <br/>  
 
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
 <img src="wave-haikei.png" align="center" style="width: 100%" />
