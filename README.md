@@ -105,4 +105,4 @@ I want to create full stack apps THAT CAN SOLVE problems!
 
 ----
 <!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
-<img src="wave-haikei.png" align="center" style="width: 100% />
+<img src="wave-haikei.png" align="center" style="width: 100%" />
