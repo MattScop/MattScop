@@ -12,7 +12,13 @@ MattScop/MattScop is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-## Hey 👋, I'm Matteo Scopece!  
+<!--- ## Hey 👋, I'm Matteo Scopece!  --->
+
+
+
+
+
+<img src="download.png" align="center" style="width: 100%" />
   
 
 <a href="https://github.com/MattScop" target="_blank">
@@ -99,3 +105,4 @@ I want to create full stack apps THAT CAN SOLVE problems!
 
 ----
 <!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
+<img src="wave-haikei.png" align="center" style="width: 100% />
