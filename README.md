@@ -45,6 +45,7 @@ I want to create full stack apps THAT CAN SOLVE problems!
 
 - 🌱 <b>I’m currently learning:</b>
   
+  - CLI
   - HTML
   - CSS
   - JavaScript
