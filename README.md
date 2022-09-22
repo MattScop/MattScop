@@ -38,8 +38,6 @@ I want to create full stack apps that **CAN** solve <ins>problems</ins>!
 
 
 ## Rapidfire  
-<table><tr>
-
 - 🌱 <b>I’m currently learning:</b>
   
   - Unix
@@ -47,9 +45,7 @@ I want to create full stack apps that **CAN** solve <ins>problems</ins>!
   - HTML
   - CSS
   - JavaScript
-  - Ruby  
-
-</tr></table>  
+  - Ruby 
 
 <br/>  
 
