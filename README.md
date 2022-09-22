@@ -38,25 +38,19 @@ I want to create full stack apps that **CAN** solve <ins>problems</ins>!
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr>
 
 - 🌱 <b>I’m currently learning:</b>
   
-  - CLI
+  - Unix
+  - RegEx
   - HTML
   - CSS
   - JavaScript
   - Ruby  
 
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
+</tr></table>  
 
 <br/>  
 
