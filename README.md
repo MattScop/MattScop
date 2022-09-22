@@ -21,9 +21,6 @@ You can click the Preview link to take a look at your changes.
 <img src="download.png" align="center" style="width: 100%" />
   
 
-<a href="https://github.com/MattScop" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
 <a href="https://codepen.com/mattscop" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
@@ -32,8 +29,8 @@ You can click the Preview link to take a look at your changes.
 
 
 ### Welcome to my profile!  
-I am a TOP (the odin project) student who is REALLY passionate about programming. 
-I want to create full stack apps THAT CAN SOLVE problems!  
+I am a T.O.P. (*the odin project*) student who is really passionate about programming. 
+I want to create full stack apps that **CAN** solve <ins>problems</ins>!  
   
 
 <br/>  
