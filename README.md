@@ -49,7 +49,6 @@ I want to create full stack apps that **CAN** solve <ins>problems</ins>!
   - JavaScript
   - Ruby  
 
-
 </tr></table>  
 
 <br/>  
