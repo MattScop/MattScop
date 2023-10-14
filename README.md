@@ -86,7 +86,7 @@ I want to create full stack apps that **CAN** solve <ins>problems</ins>!
 ## Hobbies
 :musical_keyboard: I play piano and compose music
 
-<!--- <a href="https://www.youtube.com/@mattscopece" target="_blank">
+<a href="https://www.youtube.com/@mattscopece" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a> 
-<img src="layered-waves-haikei.svg" align="center" style="width: 100%" /> --->
+<img src="layered-waves-haikei.svg" align="center" style="width: 100%" /> 
