@@ -20,9 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 <img src="github-header-image.png" align="center" style="width: 100%" />
   
-<a href="https://twitter.com/MattScopece" target="_blank">
+<!--- <a href="https://twitter.com/MattScopece" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
+</a> --->
 <a href="https://codepen.com/mattscop" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
@@ -86,7 +86,7 @@ I want to create full stack apps that **CAN** solve <ins>problems</ins>!
 ## Hobbies
 :musical_keyboard: I play piano and compose music
 
-<a href="https://www.youtube.com/@mattscopece" target="_blank">
+<!--- <a href="https://www.youtube.com/@mattscopece" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a> 
+</a> --->
 <img src="layered-waves-haikei.svg" align="center" style="width: 100%" /> 
